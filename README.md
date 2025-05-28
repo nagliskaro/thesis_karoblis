@@ -1,11 +1,11 @@
-Repository contains Python code for the analysing of Bachelor's Thesis. 
+Repository contains Python code for the analysis of Bachelor's Thesis. 
 
 Naglis Karoblis, 13129104:
 "Evaluation of Text Mining Algorithms on Short-Text Consumer Preference Survey"
 
 Text Classification:
 
-"Supervised_" narratives contain analysis for text classification task for two questions. "_no" is the Narrative Open question corresponding to Appendix A.2; "_ns" is the Narratives Self question corresponding to Appendix A.1
+"Supervised_" narratives contain analysis for a text classification task for two questions. "_no" is the Narrative Open question corresponding to Appendix A.2; "_ns" is the Narratives Self question corresponding to Appendix A.1
 
 
 Named Entity Recognition:
